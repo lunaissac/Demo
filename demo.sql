@@ -16,3 +16,7 @@ CREATE TABLE persona (
    codubi varchar2(6)  NOT NULL,
    CONSTRAINT perosna_pk PRIMARY KEY (codper)
 ) ;
+
+
+
+select * from persona;
